@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="edit_text_hint">输入文本</string>
+    <string name="confirm_button_text">确认</string>
 </resources>
